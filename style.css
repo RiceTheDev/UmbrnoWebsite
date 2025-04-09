@@ -59,14 +59,14 @@ p {
     width: 500px;
     height: 300px;
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 #windowbg {
     width: 500px;
-    height: 275px;
+    height: 281px;
     position: absolute;
     top: 8%;
     border-bottom-right-radius: 12px;
